@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Erwan LENHARD**
 
-👨‍💻 **Lead Developer / Part-Time Teacher**  
+👨‍💻 **Technical Leader / Part-Time Teacher**  
 💡 Focused on **Craftsmanship**, **Continuous Learning**, and **Pedagogy**
 
 <br/>
@@ -8,10 +8,10 @@
 ## 🧭 About Me
 
 I split my time between **leading development teams** and **teaching computer science**.
-In both roles, I pursue the same goal — **write code that makes sense**, and **share what makes it meaningful**.
+In both roles, I pursue the same goal, **write code that makes sense**, and **share what makes it meaningful**.
 
-I don’t just teach syntax or frameworks; I aim to **transmit the passion for computing as a whole**, from its logic to its ecosystem.
-Because good developers don’t just know how things work — they know **why** they work that way.
+I don’t just teach syntax or frameworks, I aim to **transmit the passion for computing as a whole**, from its logic to its ecosystem.
+Because good developers don’t just know how things work, they know **why** they work that way.
 
 <br/>
 
